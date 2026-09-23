@@ -53,7 +53,7 @@ ame ins seija
 Clone the repository and build the package manually:
 
 ```bash
-git clone https://github.com/xkikiyaa/seija.git
+git clone https://github.com/syuvi211/seija.git
 cd seija
 makepkg -si
 ```
