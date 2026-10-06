@@ -32,7 +32,7 @@ Output:
 ʇsǝʇ ɐ sᴉ sᴉɥʇ
 ```
 
-##  Installation
+##  Installation Arch-Based
 
 ### From the AUR
 
@@ -47,8 +47,16 @@ paru -S seija
 ```bash
 ame ins seija
 ```
+##  Installation Debian-Based
 
-### Manual Installation
+```bash
+git clone https://github.com/syuvi211/seija.git
+cd seija 
+sudo apt install ./seija.deb
+```
+
+
+### Manual Installation Arch-Based
 
 Clone the repository and build the package manually:
 
